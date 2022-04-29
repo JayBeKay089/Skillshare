@@ -1,0 +1,23 @@
+body {
+    background-color: lightgray;
+}
+h1 {
+    font-size: 30px; 
+    color: violet;
+}
+h2 {
+    font-size: 23px; 
+    color: darkviolet;
+}
+.underline {
+    text-decoration: underline;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.underline.uppercase {
+    color: darkred;
+}
+span {
+    color: red;
+}
